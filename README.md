@@ -83,7 +83,7 @@
         <p> Si desea visualizar el gráfico interactivo sobre El sistema de Atención al Ciudadano, visite el siguiente enlace: </p>
         <div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/97d08b3e-6305-4e02-9367-9f8facfc99d8" style="color:#989898!important;text-decoration:none!important;" target="_blank">Voz Corrientes - Reporte de El Sistema de Atención Ciudadana de la Ciudad de Corrientes</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
         <br>
-        <image src="grafico_pag1.PNG"> 
-        <image src="grafico_pag2.PNG"> 
+        <image src="grafico_pag1.png"> 
+        <image src="grafico_pag2.png"> 
   </body>
 </html>
