@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css">
-    <script id="infogram_0_97d08b3e-6305-4e02-9367-9f8facfc99d8" title="Voz Corrientes - Reporte de El Sistema de Atención Ciudadana de la Ciudad de Corrientes" src="https://e.infogram.com/js/dist/embed.js?FD5" type="text/javascript"></script>
   </head>
   <body>
       <h1>    
@@ -81,6 +80,6 @@
             conseguir un equilibrio entre todos los barrios de la Ciudad de Corrientes, y estar así más cerca de tener las necesidades básicas
               cubiertas.
         </p>
-        <div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/97d08b3e-6305-4e02-9367-9f8facfc99d8" style="color:#989898!important;text-decoration:none!important;" target="_blank">Voz Corrientes - Reporte de El Sistema de Atención Ciudadana de la Ciudad de Corrientes</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+        <script id="infogram_0_97d08b3e-6305-4e02-9367-9f8facfc99d8" title="Voz Corrientes - Reporte de El Sistema de Atención Ciudadana de la Ciudad de Corrientes" src="https://e.infogram.com/js/dist/embed.js?FD5" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/97d08b3e-6305-4e02-9367-9f8facfc99d8" style="color:#989898!important;text-decoration:none!important;" target="_blank">Voz Corrientes - Reporte de El Sistema de Atención Ciudadana de la Ciudad de Corrientes</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
   </body>
 </html>
