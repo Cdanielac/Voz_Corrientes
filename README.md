@@ -11,11 +11,6 @@
       <h1>    
         <image src="logo_vozCorrientes.PNG"> 
       </h1>
-      <style>
-        p {
-            text-align: justify;
-        }
-      </style>
       <p>
           El presente reporte utiliza los datos ofrecidos por el Portal de Datos de La Municipalidad de Corrientes para el proyecto "Sistema de Atención al Ciudadano".
       </p>
